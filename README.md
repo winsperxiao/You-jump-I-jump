@@ -1,4 +1,4 @@
-# You-jump-I-jump
+﻿# You-jump-I-jump
 	
 坑什么的，多多益善嘛？
 	
@@ -9,6 +9,6 @@
 
 ### OtherWorld
 	
-+ 永远的7日之都
++ [永远的7日之都](OthersWorld/Forever7/README.md)
 	
 
