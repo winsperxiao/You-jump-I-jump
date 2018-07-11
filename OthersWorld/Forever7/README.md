@@ -3,9 +3,15 @@
 游戏《永远的7日之都》，指挥使X安托向同人。
 
 私设成堆。双线双安托设定。
+
++ 正篇<br>
+ + [60秒的逃亡](Story/TaoWang-B.md)
+ + [12点的幽灵](Story/YouLing-H.md)
+ + [镜面的选择](Story/JingMian-H.md)
 	
-	
-+ [设定篇](BiLuoHuangQuan.md)
++ 其他<br>	
+ + [设定篇](BiLuoHuangQuan.md)<br>
+
 
 
 [-返回主页-](../../README.md)
